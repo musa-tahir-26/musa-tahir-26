@@ -3,7 +3,8 @@
 <!--
 **musa-tahir-26/musa-tahir-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started -->
+#About me:
 
 - 🤔 I am currently a sophomore at the University of Illinois Chicago studying Computer Science
 - 🌱 I’m currently learning C, JavaScript, React Native
