@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started -->
 ## About Me:
-Ever since my dad got me my first gaming console, the Game Boy Advance SP, I’ve been fascinated by how technology works. That curiosity led me to also tinker with our home computer, where I learned to delete unnecessary files and download games. It made me think about how we can build things that make life easier (or, in this case, more fun too). I am now studying computer science at UIC, where I’m a sophomore. Currently, I am thinking of ways to make web browsing better, which is why I’m diving into Chrome extensions, JavaScript, and some React (also C as part of coursework).
+Ever since my dad got me my first gaming console, the Game Boy Advance SP, I’ve been fascinated by how technology works. That curiosity led me to also tinker with our home computer, where I learned to delete unnecessary files and download games. It made me think about how we can build things that make life easier (or, in this case, more fun too). I am now studying computer science at UIC, where I’m a sophomore. Currently, I am learning C as a part of my coursework to get a deeper understanding of low-level programming concepts.
 
 Right now, I’m sharpening my web development skills and working on projects that push my understanding of full-stack development. My past projects include a presidential election data explorer and a 1024 game, both built in C++ as part of my coursework. As I transition into web technologies, I’m excited to create interactive web apps and browser extensions.
 
