@@ -15,7 +15,7 @@ My goal is to land an internship where I can apply my skills, grow as a develope
 
  - 🤔 I am currently a sophomore at the University of Illinois Chicago, studying Computer Science
  - 🌱 I’m currently learning C, JavaScript, React
- - 📫 My LinkedIn: (https://www.linkedin.com/in/m-musa-tahir/)
+ - 📫 My LinkedIn: https://www.linkedin.com/in/m-musa-tahir/
  - 😄 Pronouns: He/Him
  - ⚡ Fun fact: My first gaming console was a Game Boy Advance SP, which was why I fell in love with technology.
 
