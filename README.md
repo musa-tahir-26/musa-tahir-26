@@ -9,13 +9,13 @@ Ever since my dad got me my first gaming console, the Game Boy Advance SP, I’v
 
 Right now, I’m sharpening my web and mobile development skills and working on projects that push my understanding of full-stack development. My past projects include a presidential election data explorer and a 1024 game, both built in C++ as part of my coursework. As I transition into web technologies, I’m excited to create interactive web apps and browser extensions.
 
-My goal is to land an internship where I can apply my skills, grow as a developer, and collaborate on impactful projects. If you’re looking for someone eager to learn and build, let’s connect! You can reach me on [https://www.linkedin.com/in/m-musa-tahir/](LinkedIn)
+My goal is to land an internship where I can apply my skills, grow as a developer, and collaborate on impactful projects. If you’re looking for someone eager to learn and build, let’s connect! You can reach me on my [LinkedIn](https://www.linkedin.com/in/m-musa-tahir/)
 
 ## About Me (TLDR version):
 
- - 🤔 I am currently a sophomore at the University of Illinois Chicago studying Computer Science
+ - 🤔 I am currently a sophomore at the University of Illinois Chicago, studying Computer Science
  - 🌱 I’m currently learning C, JavaScript, React
- - 📫 You can reach me at my LinkedIn: [https://www.linkedin.com/in/m-musa-tahir/](url)
+ - 📫 My LinkedIn: [https://www.linkedin.com/in/m-musa-tahir/](url)
  - 😄 Pronouns: He/Him
  - ⚡ Fun fact: My first gaming console was a Game Boy Advance SP, which was why I fell in love with technology.
 
